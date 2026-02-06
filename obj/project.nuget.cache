@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tXvu+kV9DzI=",
+  "success": true,
+  "projectFilePath": "/Users/pachara/Documents/GitHub/Crud-Dotnet-NAPR-Api/Crud-Dotnet-NAPR-Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/pachara/.nuget/packages/microsoft.aspnetcore.openapi/10.0.2/microsoft.aspnetcore.openapi.10.0.2.nupkg.sha512",
+    "/Users/pachara/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
